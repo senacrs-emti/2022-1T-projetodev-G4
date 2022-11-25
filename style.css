@@ -45,6 +45,11 @@ footer{
     margin-left: 10%;
     margin-right: 10%;
 }
+.botao0{
+    margin-top: 20%;
+    background-color: purple;
+    padding: 15px;
+}
 .card1 {
     height: 200px;
     display: inline;
