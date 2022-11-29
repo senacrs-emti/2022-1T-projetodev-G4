@@ -26,10 +26,7 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
 }
 .h1logo{
-    font-size: 40px;
-    margin-top: 1%;
-    margin-left: 36.5%;
-    color: rgb(2, 2, 193);
+    margin-right: 5%;
 }
 .collapsecn{
     margin-top: 10%;
@@ -60,9 +57,5 @@ footer{
     display: inline;
 }
 body{
-    background: rgb(11,31,241);
-    background: linear-gradient(0deg, rgba(11,31,241,1) 0%, rgb(66, 107, 188) 32%, rgb(232, 125, 25) 51%, rgba(255,97,0,1) 100%);
-}
-.imagemlogo {
-    margin-left: 35%;
+    background: rgb(255, 255, 255);
 }
