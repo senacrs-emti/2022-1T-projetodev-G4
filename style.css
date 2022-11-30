@@ -18,8 +18,12 @@ main{
 }
 footer{
     height: auto;
-    background-color: bisque;
+    background-color: whitesmoke;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    
 }
+
 .h1cn{
     margin-top: 5%;
     text-align: center;
@@ -27,9 +31,11 @@ footer{
 }
 .h1logo{
     font-size: 40px;
-    margin-top: 1%;
-    margin-left: 36.5%;
-    color: rgb(2, 2, 193);
+    margin-top: 9.5%;
+    margin-left: 0%;
+    color: rgb(10, 10, 213);
+    margin-bottom: %;
+    font-size: 29px;
 }
 .collapsecn{
     margin-top: 10%;
@@ -63,6 +69,17 @@ body{
     background: rgb(11,31,241);
     background: linear-gradient(0deg, rgba(11,31,241,1) 0%, rgb(66, 107, 188) 32%, rgb(232, 125, 25) 51%, rgba(255,97,0,1) 100%);
 }
-.imagemlogo {
-    margin-left: 35%;
+.imagemlogo1 {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 1%;
 }
+hr{
+    height: 1px;
+    background-color: black;
+    width: 85%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+}
+
+
